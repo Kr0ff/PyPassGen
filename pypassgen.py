@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Author: Seph0ra
+#Author: Kr0ff
 #Date: 4/09/2018
 #Version: 1.0v
 
